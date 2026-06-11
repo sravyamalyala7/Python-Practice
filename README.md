@@ -24,8 +24,6 @@ This repository contains Python programs and coding exercises that help me stren
 - Exception Handling
 ## Programs Added
 
-## Programs Added
-
 ### Python Basics
 - Even Odd Number
 - Palindrome Checker
