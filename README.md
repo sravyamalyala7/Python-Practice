@@ -22,6 +22,10 @@ This repository contains Python programs and coding exercises that help me stren
 - File Handling
 - Object-Oriented Programming (OOP)
 - Exception Handling
+## Programs Added
+
+### Basics
+- Even Odd Number
 
 ## Goal
 
