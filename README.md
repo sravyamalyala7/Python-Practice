@@ -27,6 +27,7 @@ This repository contains Python programs and coding exercises that help me stren
 ### Basics
 - Even Odd Number
 - Palindrome Checker
+- Prime Number Checker
 
 ## Goal
 
@@ -36,3 +37,4 @@ To improve programming skills and build a strong foundation in Python.
 
 Sravya Malyala 
  B.Tech CSE (AI & ML)
+s
