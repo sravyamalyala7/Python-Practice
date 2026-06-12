@@ -22,12 +22,14 @@ This repository contains Python programs and coding exercises that help me stren
 - File Handling
 - Object-Oriented Programming (OOP)
 - Exception Handling
+
 ## Programs Added
 
 ### Basics
 - Even Odd Number
 - Palindrome Checker
 - Prime Number Checker
+- Factorial Calculator
 
 ## Goal
 
@@ -37,4 +39,3 @@ To improve programming skills and build a strong foundation in Python.
 
 Sravya Malyala 
  B.Tech CSE (AI & ML)
-s
