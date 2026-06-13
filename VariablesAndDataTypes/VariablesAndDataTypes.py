@@ -1,5 +1,4 @@
-code 
-# Variables and Data Types Demo
+ # Variables and Data Types Demo
 
 name = "Sravya"      # String
 age = 20              # Integer
