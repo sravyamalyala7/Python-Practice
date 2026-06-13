@@ -34,6 +34,9 @@ This repository contains Python programs and coding exercises that help me stren
 ### Variables and Data Types
 - Variables and Data Types Demo
 
+### Strings
+- Count Vowels in a String
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
