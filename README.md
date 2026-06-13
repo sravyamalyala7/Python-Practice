@@ -31,6 +31,9 @@ This repository contains Python programs and coding exercises that help me stren
 - Prime Number Checker
 - Factorial Calculator
 
+### Variables and Data Types
+- Variables and Data Types Demo
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
