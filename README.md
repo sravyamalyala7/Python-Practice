@@ -35,7 +35,7 @@ This repository contains Python programs and coding exercises that help me stren
 - Variables and Data Types Demo
 
 ### Strings
-- Count Vowels in a String
+- Count Vowels in a String.
 
 ## Goal
 
