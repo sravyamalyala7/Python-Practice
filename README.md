@@ -38,7 +38,7 @@ This repository contains Python programs and coding exercises that help me stren
 - Count Vowels in a String.
 
 ### Conditional Statements
-- Grade Calculator
+- Grade Calculator.
 
 ## Goal
 
