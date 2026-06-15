@@ -41,6 +41,10 @@ This repository contains Python programs and coding exercises that help me stren
 - Grade Calculator
 - Largest of Three Numbers
 
+### Loops
+- Multiplication Table
+- Fibonacci Series
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
