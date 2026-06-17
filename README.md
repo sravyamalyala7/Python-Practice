@@ -45,6 +45,18 @@ This repository contains Python programs and coding exercises that help me stren
 - Multiplication Table
 - Fibonacci Series
 
+### Operators
+- Arithmetic Operators
+- Relational Operators
+
+### Functions
+- Calculator Using Functions
+- Maximum Number Using Function
+
+### Lists
+- Largest Element in a List
+- Sum of List Elements
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
