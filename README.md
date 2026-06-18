@@ -57,6 +57,12 @@ This repository contains Python programs and coding exercises that help me stren
 - Largest Element in a List
 - Sum of List Elements
 
+### Tuples
+- Tuple Demo
+
+### Dictionaries
+- Dictionary Demo
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
