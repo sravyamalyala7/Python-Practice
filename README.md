@@ -63,6 +63,9 @@ This repository contains Python programs and coding exercises that help me stren
 ### Dictionaries
 - Dictionary Demo
 
+### Sets
+- Set Demo
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
