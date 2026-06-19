@@ -66,6 +66,18 @@ This repository contains Python programs and coding exercises that help me stren
 ### Sets
 - Set Demo
 
+### Object Oriented Programming
+- Student Class
+- Employee Inheritance Example
+
+### Exception Handling
+- Division Exception Handling
+- Custom Age Exception
+
+### File Handling
+- Write to File
+- Read from File
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
