@@ -52,6 +52,7 @@ This repository contains Python programs and coding exercises that help me stren
 ### Functions
 - Calculator Using Functions
 - Maximum Number Using Function
+- Factorial Using Function
 
 ### Lists
 - Largest Element in a List
