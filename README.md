@@ -78,6 +78,9 @@ This repository contains Python programs and coding exercises that help me stren
 - Write to File
 - Read from File
 
+### Searching
+- Linear Search
+
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
@@ -85,4 +88,3 @@ To improve programming skills and build a strong foundation in Python.
 ## Author
 
 Sravya Malyala 
- B.Tech CSE (AI & ML)
