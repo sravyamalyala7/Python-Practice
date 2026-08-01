@@ -64,6 +64,7 @@ This repository contains Python programs and coding exercises that help me stren
 
 ### Dictionaries
 - Dictionary Demo
+- student marks program
 
 ### Sets
 - Set Demo
