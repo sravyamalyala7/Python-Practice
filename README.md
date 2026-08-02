@@ -68,6 +68,7 @@ This repository contains Python programs and coding exercises that help me stren
 
 ### Sets
 - Set Demo
+- Basic Set Operations
 
 ### Object Oriented Programming
 - Student Class
