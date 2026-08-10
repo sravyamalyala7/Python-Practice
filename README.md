@@ -85,6 +85,7 @@ This repository contains Python programs and coding exercises that help me stren
 
 ### Searching
 - Linear Search
+- Binary Search
 
 ## Goal
 
