@@ -30,6 +30,7 @@ This repository contains Python programs and coding exercises that help me stren
 - Palindrome Checker
 - Prime Number Checker
 - Factorial Calculator
+- Armstrong Number Checker
 
 ### Variables and Data Types
 - Variables and Data Types Demo
