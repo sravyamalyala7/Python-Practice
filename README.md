@@ -83,7 +83,7 @@ This repository contains Python programs and coding exercises that help me stren
 ### File Handling
 - Write to File
 - Read from File
-
+- Word Frequency Counter
 ### Searching
 - Linear Search
 - Binary Search
