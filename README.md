@@ -38,6 +38,7 @@ This repository contains Python programs and coding exercises that help me stren
 ### Strings
 - Count Vowels in a String.
 - Reverse Words in a Sentence
+- Character Frequency Counter
 
 ### Conditional Statements
 - Grade Calculator
