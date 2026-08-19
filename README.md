@@ -61,6 +61,7 @@ This repository contains Python programs and coding exercises that help me stren
 - Largest Element in a List
 - Sum of List Elements
 - Remove Duplicate Elements from a List
+- Expense Tracker
 
 ### Tuples
 - Tuple Demo
