@@ -68,6 +68,7 @@ This repository contains Python programs and coding exercises that help me stren
 ### Dictionaries
 - Dictionary Demo
 - student marks program
+- Expense Summary Calculator
 
 ### Sets
 - Set Demo
