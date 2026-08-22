@@ -56,6 +56,7 @@ This repository contains Python programs and coding exercises that help me stren
 - Calculator Using Functions
 - Maximum Number Using Function
 - Factorial Using Function
+- Password Generator
 
 ### Lists
 - Largest Element in a List
