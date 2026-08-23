@@ -88,6 +88,8 @@ This repository contains Python programs and coding exercises that help me stren
 - Write to File
 - Read from File
 - Word Frequency Counter
+- To-Do List
+
 ### Searching
 - Linear Search
 - Binary Search
